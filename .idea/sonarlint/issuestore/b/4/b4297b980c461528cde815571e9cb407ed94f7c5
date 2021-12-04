@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öàÂÕúÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "length".(‰‡‘Éûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğà¤ªùÿÿÿÿ
+^
+java:S1226"CIntroduce a new variable instead of reusing the parameter "length".(‰‡‘Éûÿÿÿÿ

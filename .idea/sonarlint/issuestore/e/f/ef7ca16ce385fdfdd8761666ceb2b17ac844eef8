@@ -1,0 +1,10 @@
+
+U	java:S106	"9Replace this use of System.out or System.err by a logger.( ‰–¨8é”•À×/
+V
+java:S1854"9Remove this useless assignment to local variable "color".(—Ý¦ë8¦“šÀ×/
+L
+java:S1656"/Remove or correct this useless self-assignment.(—Ý¦ë8§“šÀ×/
+X	java:S125"<This block of commented-out lines of code should be removed.(—Ý¦ë8ãÀ£À×/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ðà¤ªùÿÿÿÿ
+€
+java:S4165"cRemove this useless assignment; "color" already holds the assigned value along all execution paths.(—Ý¦ë8«“šÀ×/

@@ -1,0 +1,8 @@
+
+M
+java:S2387	"2"numberOfLegs" is the name of a field in "Insect".(ÆÑµçøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şòàìùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ’Î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øö‰üşÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ó¸¦8ªáÏÁ×/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸å³o
