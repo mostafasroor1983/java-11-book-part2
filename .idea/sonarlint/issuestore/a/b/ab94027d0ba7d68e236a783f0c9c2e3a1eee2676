@@ -1,0 +1,11 @@
+
+J
+java:S1610"4Convert the abstract class "Bird" into an interface.(äËÒ½
+S	java:S106"9Replace this use of System.out or System.err by a logger.(é±ØÛşÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ŞÔøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(â‚Êƒ
+y
+java:S2177"WRename this method; there is a "private" method in the parent class with the same name.(ÇùŞÒÿÿÿÿÿ8¨Î›¯Ù/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•ë‡…ûÿÿÿÿ
+J
+java:S1144"(Remove this unused private "fly" method.(£ÍÓùÿÿÿÿ8©Î›¯Ù/

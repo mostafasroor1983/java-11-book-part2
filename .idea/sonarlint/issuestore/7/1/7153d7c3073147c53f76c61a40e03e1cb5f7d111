@@ -1,0 +1,17 @@
+
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(‰Ë¬à
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôÅÕŒ
+K
+java:S1854"6Remove this useless assignment to local variable "r3".(µèŽs
+L
+java:S1854"6Remove this useless assignment to local variable "r2".(°ƒü¨
+L
+java:S1854"6Remove this useless assignment to local variable "r1".(²é”†
+=
+java:S1481"'Remove this unused "r1" local variable.(²é”†
+=
+java:S1481"'Remove this unused "r2" local variable.(°ƒü¨
+<
+java:S1481"'Remove this unused "r3" local variable.(µèŽs

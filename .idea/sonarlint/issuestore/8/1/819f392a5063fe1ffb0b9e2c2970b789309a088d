@@ -1,0 +1,15 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£ÈË
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šÇû¥
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢àüÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ØÜ£š8õß®–Ø/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·ºøıÿÿÿÿ8öß®–Ø/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿíú‘ûÿÿÿÿ8®˜¯–Ø/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦šÊüÿÿÿÿ8®˜¯–Ø/
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ØÜ£š8Ì…¶–Ø/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(äİÅÛúÿÿÿÿ8âæ¶–Ø/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Ã–¢µúÿÿÿÿ8âæ¶–Ø/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ÁÔ€ÿÿÿÿÿ8™ş¶–Ø/
+Q	java:S125)"<This block of commented-out lines of code should be removed.(Ú‘€ã
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(†ï†Å

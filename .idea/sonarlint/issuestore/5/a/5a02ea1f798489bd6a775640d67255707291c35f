@@ -1,0 +1,8 @@
+
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8šÜŒæ×/
+L
+java:S1068"*Remove this unused "volume" private field.(‹­÷úÿÿÿÿ8›ÜŒæ×/
+E
+java:S1068"(Remove this unused "type" private field.(Ä³œ8îÖ“æ×/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÏè—şÿÿÿÿ

@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…‘ÉÑýÿÿÿÿ
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8†ð£ç×/
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(÷Ôó›ùÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñª•ó8üí ç×/
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8•é¥ç×/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èÙÆ·ýÿÿÿÿ8ˆð£ç×/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´œàÚÿÿÿÿÿ8–é¥ç×/

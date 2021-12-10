@@ -1,0 +1,11 @@
+
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ç£ºøÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "capybara2".(¶Ş€°
+X	java:S125
+"<This block of commented-out lines of code should be removed.(¢ÉÅ´8Àà†¸Ø/
+D
+java:S1481".Remove this unused "capybara2" local variable.(¶Ş€°
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦ŠÈ†8·œ´°Ø/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—ûÿÿ8ºµ°Ø/

@@ -1,0 +1,19 @@
+
+O
+java:S3400"9Remove this method and declare a constant for this value.(›…Ú
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ßªµë
+K
+java:S2209	"5Change this instance-reference to a static reference.(ßªµë
+O
+java:S3400"9Remove this method and declare a constant for this value.(çÆ¦ö
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ8¯ÿø²Ø/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(– ¬‚8¶İı²Ø/
+R
+java:S2209"5Change this instance-reference to a static reference.(– ¬‚8°ÿø²Ø/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(û•î÷8¶İı²Ø/
+R
+java:S2209"5Change this instance-reference to a static reference.(û•î÷8¶İı²Ø/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŒüĞøÿÿÿÿ8Ä´ÿ²Ø/
+W
+java:S2209"5Change this instance-reference to a static reference.(ŒüĞøÿÿÿÿ8·İı²Ø/
+]	java:S125""<This block of commented-out lines of code should be removed.(şÂÃüÿÿÿÿ8›»Å²Ø/

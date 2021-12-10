@@ -1,0 +1,23 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅšÚÆÿÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(“¨°ş
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„Ş…¦úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…‘ÉÑıÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñª•ó
+F
+java:S1172"+Remove this unused method parameter "name".(‰İê¦úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´œàÚÿÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(÷Ôó›ùÿÿÿÿ
+K
+java:S1172#".Remove this unused method parameter "stripes".(ĞĞ÷8êú•ê×/
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(èÙÆ·ıÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ìğ£
+{
+java:S1171-"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8‡ê×/
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Õ±°Â
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ÕäÓ¶ÿÿÿÿÿ
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‡ê×/

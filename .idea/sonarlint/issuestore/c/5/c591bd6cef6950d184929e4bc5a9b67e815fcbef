@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ±†¢şÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ÎŞâ‡ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üÉÒ›şÿÿÿÿ
+K
+java:S2209"5Change this instance-reference to a static reference.(ŠÌÊƒ
+P
+java:S2209"5Change this instance-reference to a static reference.(ªëÃüÿÿÿÿ
+P
+java:S2209""5Change this instance-reference to a static reference.(äØºÍøÿÿÿÿ
+P
+java:S1161&":Add the "@Override" annotation above this method signature(“–ış
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(¾ÕŸÿÿÿÿÿ8›íÌ’Ø/

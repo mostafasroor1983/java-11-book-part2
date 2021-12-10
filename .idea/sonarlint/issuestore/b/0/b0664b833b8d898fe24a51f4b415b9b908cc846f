@@ -1,0 +1,8 @@
+
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(»íÙâ
+U
+java:S1854"8Remove this useless assignment to local variable "fish".(è”¨∑8¢Ñ»∞ÿ/
+F
+java:S1481")Remove this unused "fish" local variable.(è”¨∑8§Ñ»∞ÿ/
+]	java:S125	"<This block of commented-out lines of code should be removed.(⁄∫◊º˚ˇˇˇˇ8§Ñ»∞ÿ/

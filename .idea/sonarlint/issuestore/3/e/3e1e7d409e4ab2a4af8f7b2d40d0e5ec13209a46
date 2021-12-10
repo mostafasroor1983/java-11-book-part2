@@ -1,0 +1,9 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ëíûˆ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òâÒ©ûÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(Õì¢úÿÿÿÿÿ8†àÍå×/
+@
+java:S1068"%Remove this unused "a" private field.(ç÷Õ¡ûÿÿÿÿ
+@
+java:S1068"%Remove this unused "d" private field.(’‰÷ˆşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÏè—şÿÿÿÿ
