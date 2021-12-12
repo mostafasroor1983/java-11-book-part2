@@ -1,0 +1,43 @@
+
+Compiling the module:
+// in the same directory
+javac -p  feeding  feeding/zoo/animal/feeding/*.java feeding/*.java
+//classes will be generated in the mods directory
+javac --module-path  feeding -d mods feeding/zoo/animal/feeding/Task.java feeding/module-info.java
+*javac -p feeding  feeding/zoo/animal/feeding/Task.java feeding/*.java
+
+javac -p mods -d care  care/zoo/animal/care/details/*.java   care/zoo/animal/care/medical/*.java care/*.java
+
+Running the module
+java -p  feeding --module zoo.animal.feeding/zoo.animal.feeding.Task
+java -p feeding -m zoo.animal.feeding/zoo.animal.feeding.Task
+
+// run based on mods directory
+java -p mods -m zoo.animal.feeding/zoo.animal.feeding.Task
+java --module-path mods --module zoo.animal.feeding/zoo.animal.feeding.Task
+*java -p feeding -m custom.module/zoo.animal.feeding.Task
+
+creating a jar
+jar -cvf mods/module.jar -C feeding/ .
+
+//Describing module
+java -p mods -d zoo.animal.feeding
+java -p mods --describe-module zoo.animal.feeding
+java --module-path mods --describe-module zoo.animal.feeding
+
+
+//Describing module using jar command
+jar -f mods/zoo.animal.feeding.jar -d
+jar --file mods/zoo.animal.feeding.jar --describe-module
+
+//listing modules
+java --list-modules
+java -p mods --list-modules
+
+//Resolution module
+java --show-module-resolution -p feeding -m zoo.animal.feeding/zoo.animal.feeding.Task
+
+//The jdeps command : get summary of dependencies
+jdeps mods/feeding.jar
+jdeps -s mods/feeding.jar
+jdeps -summary mods/feeding.jar
