@@ -1,0 +1,10 @@
+
+V
+java:S3400""9Remove this method and declare a constant for this value.(½Ñÿß8İŞÙšß/
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÿÃÚÏ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(½Ï¨Ùüÿÿÿÿ
+L
+java:S1144"*Remove this unused private "snore" method.(ìİÏùúÿÿÿÿ8áŞÙšß/
+R
+java:S1144%"0Remove this unused private "checkHeight" method.(ÔœÁ–şÿÿÿÿ8áŞÙšß/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓæÙÿÿÿÿÿ

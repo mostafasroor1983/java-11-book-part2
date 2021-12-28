@@ -1,0 +1,14 @@
+
+>
+java:S1172"(Remove this unused method parameter "b".(åÒÛÑ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸Æ®¼ùÿÿÿÿ
+T
+java:S1854">Remove this useless assignment to local variable "secondCall".(Ğø°
+X
+java:S1854"=Remove this useless assignment to local variable "firstCall".(¡åûøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İòùÿÿÿÿ
+I
+java:S1481".Remove this unused "firstCall" local variable.(¡åûøÿÿÿÿ
+E
+java:S1481"/Remove this unused "secondCall" local variable.(Ğø°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’¥ûˆùÿÿÿÿ

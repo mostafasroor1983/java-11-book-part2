@@ -1,0 +1,5 @@
+
+O
+java:S3400"9Remove this method and declare a constant for this value.(çÆ¦ö
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÆ—ş8âĞ¶–ß/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌÃÒåşÿÿÿÿ

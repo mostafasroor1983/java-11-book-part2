@@ -1,0 +1,8 @@
+
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(±Ð´þ
+Y
+java:S1854"7Remove this useless assignment to local variable "fox".(­¨ë‘ûÿÿÿÿ8Õ˜ÁóÞ/
+J
+java:S1481"(Remove this unused "fox" local variable.(­¨ë‘ûÿÿÿÿ8Ö˜ÁóÞ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ÜÜÛýÿÿÿÿ

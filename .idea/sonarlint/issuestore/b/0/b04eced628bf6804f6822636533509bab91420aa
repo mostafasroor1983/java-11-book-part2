@@ -1,0 +1,5 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(õéà¼8ŞµÇß/
+r
+java:S1201"UEither override Object.equals(Object), or rename the method to prevent any confusion.( “8ÛÄß/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓæÙÿÿÿÿÿ

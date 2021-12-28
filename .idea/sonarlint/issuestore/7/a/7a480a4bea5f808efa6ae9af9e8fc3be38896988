@@ -1,0 +1,14 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(èÂá¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œÙİÒıÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "giraffe".(£§àùÿÿÿÿ
+T
+java:S1854""9Remove this useless assignment to local variable "lemur".(Òê¾¸ÿÿÿÿÿ
+G
+java:S1481",Remove this unused "giraffe" local variable.(£§àùÿÿÿÿ
+@
+java:S1481 "*Remove this unused "lemur" local variable.(Ğ£Ãì
+M
+java:S1144"2Remove this unused private "printZooInfo2" method.(ã‘Œ÷ıÿÿÿÿ
