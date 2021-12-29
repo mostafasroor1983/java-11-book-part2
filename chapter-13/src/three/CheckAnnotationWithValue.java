@@ -4,6 +4,7 @@ package three;
   String veterinarian() default "unassigned";
   String value() default "foot";
   int age() default 1;
+  int m =10;
 }
 
 @Injured("Feet")
