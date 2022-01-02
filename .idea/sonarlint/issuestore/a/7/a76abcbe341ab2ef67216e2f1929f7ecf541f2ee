@@ -1,0 +1,6 @@
+
+^
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ë£Ð¡þÿÿÿÿ
+]	java:S125	"<This block of commented-out lines of code should be removed.(ËµÒÛþÿÿÿÿ8¥µ†Üà/
+c
+java:S1128"FRemove this unused import 'java.util.concurrent.CopyOnWriteArrayList'.(ý¦ü8§µ†Üà/

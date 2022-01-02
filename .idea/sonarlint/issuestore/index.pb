@@ -181,3 +181,71 @@ O
 chapter-12/src/lambda/Crow.java,8\d\8de36fcb70e3c612f32bd05c5089e8f85863e9c0
 [
 +chapter-12/src/functionaInterface/Dive.java,0\a\0aed13c1d92ffecb63dac2371cae1dda981f4e67
+I
+chapter-13/chapter-13.iml,e\4\e4ea9406d35ef0e763385dc83e5ff78448ee678b
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+U
+%chapter-13/src/one/BadAnnotation.java,c\c\ccd8b7e5dcfbd96d92f56dad3d19dfafbc73627b
+P
+ chapter-13/src/five/Dolphin.java,7\1\71aeddb394951bdf3ff26d932a8cd5eb987b3c3f
+Y
+)chapter-13/src/two/ElectricitySource.java,f\a\fa62308dbea2135e545a64981150722319457c8e
+P
+ chapter-13/src/one/Exercise.java,0\f\0fb92166340f927150f8659d5e6ae40efc628c71
+N
+chapter-13/src/two/Fluffy.java,7\4\7451518f81728eb851081d506436eb9c9c804a4a
+Q
+!chapter-13/src/three/Giraffe.java,8\f\8fcf2afb6b4ba80046edaee495ab2a9195f8016a
+P
+ chapter-13/src/example/Init.java,e\5\e5b1587d0039627cabac04986b94165330b98b4f
+W
+'chapter-13/src/example/JsonElement.java,d\e\de81e4c8f78a83343f42f48fcabf227b8d1691e6
+\
+,chapter-13/src/example/JsonSerializable.java,4\5\45eb899877312fcbfda917994f4a8314adcccaa2
+a
+1chapter-13/src/example/ObjectToJsonConverter.java,2\d\2d9037096772a50c28593873cb5a6e8eaff10280
+M
+chapter-13/src/one/Panda.java,9\2\9231561a7fdfaadb93c1489b95002060413f9776
+R
+"chapter-13/src/example/Person.java,2\c\2c4bd4241fb2767e78d92bd1f29776ead03bb7ac
+O
+chapter-13/src/two/Swimmer.java,c\3\c36d85969bf06b469c64d95f0c5fc35da5041a3e
+L
+chapter-13/src/five/Zoo.java,f\e\fed6620915602d7ec9f51452e2666b8d1b369953
+V
+&chapter-13/src/four/ZooAttraction.java,e\8\e801542d0e60af9a5df83f7a9275175344df7430
+S
+#chapter-13/src/one/ZooEmployee.java,d\7\d799b5c8b011caed9f8d9eaca6ba9db107e84289
+V
+&chapter-13/src/four/NetworkRepair.java,6\9\698db0806a98a4a31ef0fa4837b75470a2c09e26
+R
+"chapter-13/src/three/Capybara.java,f\5\f5ffa94e73a93df6355565a277d0c513d8709e71
+b
+2chapter-13/src/three/CheckAnnotationWithValue.java,4\8\48d3ded6f5cec8631a67f2d5903e56f78a381d41
+U
+%chapter-13/src/seven/NeverDoThis.java,6\9\69c5b8991dec68d7cb68901629f8345a44eff6e3
+U
+%chapter-13/src/seven/Nightingale.java,2\6\26065e58677b1e78aff5983c443a0fbe7cfe663f
+L
+chapter-13/src/six/Wolf.java,1\e\1e9ec3f9f420e657889e7785d0fad9693829e87a
+P
+ chapter-14/src/one/Duckling.java,4\6\460f4d3fc9051d71791ada5c8b1bcff8a6bcba70
+R
+"chapter-14/src/one/DuckHelper.java,8\c\8cf274ac3df31353045453894318ce5ae31264bf
+T
+$chapter-14/src/one/LearnToSpeak.java,d\f\df102497f7eefc703ece8ebfa47819925477d5f5
+O
+chapter-14/src/two/Testing.java,1\c\1cad7687422862e261b91559828edf9f32b1b100
+S
+#chapter-14/src/diamond/Testing.java,d\a\da423d0d34556df7eaa2334b5b547261af01cbe4
+O
+chapter-14/src/two/Penguin.java,1\e\1ef3e94333cf13e8c74e55b3ba8034318c555af7
+T
+$chapter-14/src/wrappers/Testing.java,1\7\1777d14e7039b0ad1b1a646a69c7e2cb1ddd64cc
+s
+Cchapter-14/src/collections/TestConcurrentModificationException.java,a\7\a76abcbe341ab2ef67216e2f1929f7ecf541f2ee
+Z
+*chapter-14/src/collections/TestingAdd.java,0\1\01d3e96d416b86fe203f1767fd57688d0ec22ede
+]
+-chapter-14/src/collections/TestingRemove.java,b\5\b564ad3e7e0f86e4aa6fd8944bc88470645afba2

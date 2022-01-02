@@ -1,0 +1,33 @@
+
+l
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(†µÍÜøÿÿÿÿ
+l
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(‹ûı—úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İù­Ş
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘ªÇúùÿÿÿÿ
+r
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'ToIntFunction<Penguin>'(¦ã‚ú
+r
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'ToIntFunction<Penguin>'(‹•‡¸
+E
+java:S1611"/Remove the parentheses around the "x" parameter(‹•‡¸
+W
+java:S1612"AReplace this lambda with method reference 'Penguin::countBabies'.(‹•‡¸
+M	java:S106"9Replace this use of System.out or System.err by a logger.(†¬9
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ü‹¶Şúÿÿÿÿ
+\
+java:S1612"AReplace this lambda with method reference 'Penguin::countBabies'.(¼Ş÷¯üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“–è×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò‚™†
+y
+java:S4276 "^Refactor this code to use the more specialised Functional Interface 'ToIntFunction<Penguin[]>'(ÂÈÛÖûÿÿÿÿ
+y
+java:S4276!"^Refactor this code to use the more specialised Functional Interface 'ToIntFunction<Penguin[]>'(ÜÓñ³şÿÿÿÿ
+J
+java:S1611!"/Remove the parentheses around the "x" parameter(ÜÓñ³şÿÿÿÿ
+\
+java:S1612!"AReplace this lambda with method reference 'Penguin::countBabies'.(ÜÓñ³şÿÿÿÿ
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(âÆ÷©8ØéÛÄà/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Ö“—‹ÿÿÿÿÿ8‘ßÜÄà/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ó¿ÜÄà/

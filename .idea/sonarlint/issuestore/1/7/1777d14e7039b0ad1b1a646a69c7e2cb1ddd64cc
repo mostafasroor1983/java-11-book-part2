@@ -1,0 +1,17 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "r".(†µ’Óüÿÿÿÿ
+U
+java:S1854	":Remove this useless assignment to local variable "pounds".(Ñ ¥¯üÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "b".(ú°àù
+<
+java:S1481"&Remove this unused "b" local variable.(ú°àù
+F
+java:S1481	"+Remove this unused "pounds" local variable.(Ñ ¥¯üÿÿÿÿ
+A
+java:S1481"&Remove this unused "r" local variable.(†µ’Óüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šôÈû
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÞÒ©Ø
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò †Øûÿÿÿÿ

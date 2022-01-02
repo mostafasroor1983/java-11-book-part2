@@ -1,0 +1,13 @@
+
+X
+java:S1854"=Remove this useless assignment to local variable "remaining".(«æÇ³ûÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "o".(óŸ¤Ş
+]
+java:S1854"BRemove this useless assignment to local variable "repairSubclass".(åê‰Òüÿÿÿÿ
+N
+java:S1481"3Remove this unused "repairSubclass" local variable.(åê‰Òüÿÿÿÿ
+<
+java:S1481"&Remove this unused "o" local variable.(óŸ¤Ş
+I
+java:S1481".Remove this unused "remaining" local variable.(«æÇ³ûÿÿÿÿ

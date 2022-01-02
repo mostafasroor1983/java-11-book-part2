@@ -1,0 +1,11 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "list3".(¾İ½±úÿÿÿÿ
+[
+java:S1854"9Remove this useless assignment to local variable "list2".(«ùËÎúÿÿÿÿ8Ù¸”Óà/
+E
+java:S1481"*Remove this unused "list2" local variable.(«ùËÎúÿÿÿÿ
+L
+java:S1481"*Remove this unused "list3" local variable.(¾İ½±úÿÿÿÿ8åÑ”Óà/
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(»¼£

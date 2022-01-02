@@ -1,0 +1,68 @@
+
+E
+java:S3740;"/Provide the parametrized type for this generic.(Ü»ÿ“
+J
+java:S3740?"/Provide the parametrized type for this generic.(µ¾Šıÿÿÿÿ
+O
+java:S1854":Remove this useless assignment to local variable "lambda".(ÿ­ğ
+S
+java:S1854"=Remove this useless assignment to local variable "methodRef".(—È‚Ş
+V
+java:S18544"@Remove this useless assignment to local variable "biPredicate2".(ğ½Âª
+Y
+java:S1854/">Remove this useless assignment to local variable "predicate4".(ì¸Û—ÿÿÿÿÿ
+Y
+java:S1854.">Remove this useless assignment to local variable "predicate3".(½şæ±üÿÿÿÿ
+T
+java:S1854?"9Remove this useless assignment to local variable "func2".(µ¾Šıÿÿÿÿ
+O
+java:S1854;"9Remove this useless assignment to local variable "supp4".(Ü»ÿ“
+O
+java:S1854:"9Remove this useless assignment to local variable "supp3".(…Èû’
+D
+java:S1481".Remove this unused "methodRef" local variable.(—È‚Ş
+S
+java:S1612">Replace this lambda with method reference 'Collections::sort'.(ÿ­ğ
+@
+java:S1481"+Remove this unused "lambda" local variable.(ÿ­ğ
+P
+java:S1612":Replace this lambda with method reference 's::startsWith'.(İÖí®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İ¡è‹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶Ûùşÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Á©ßüşÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.( â¡
+l
+java:S4276&"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(Û˜åéøÿÿÿÿ
+g
+java:S4276'"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(¥¸­ğ
+R
+java:S1612'"<Replace this lambda with method reference 'random::nextInt'.(¥¸­ğ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ú‡è©
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Œµ
+J
+java:S1481."/Remove this unused "predicate3" local variable.(½şæ±üÿÿÿÿ
+W
+java:S1612/"<Replace this lambda with method reference 'String::isEmpty'.(ì¸Û—ÿÿÿÿÿ
+J
+java:S1481/"/Remove this unused "predicate4" local variable.(ì¸Û—ÿÿÿÿÿ
+G
+java:S14814"1Remove this unused "biPredicate2" local variable.(ğ½Âª
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(âëí¤
+@
+java:S1481:"*Remove this unused "supp3" local variable.(…Èû’
+Q
+java:S1612;";Replace this lambda with method reference 'ArrayList::new'.(Ü»ÿ“
+@
+java:S1481;"*Remove this unused "supp4" local variable.(Ü»ÿ“
+m
+java:S4276>"WRefactor this code to use the more specialised Functional Interface 'IntFunction<List>'(®¾ı
+
+java:S5329>"xReplace this method reference by a lambda to explicitly show the usage of ArrayList(int initialCapacity) or ArrayList().(®¾ı
+r
+java:S4276?"WRefactor this code to use the more specialised Functional Interface 'IntFunction<List>'(µ¾Šıÿÿÿÿ
+V
+java:S1612?";Replace this lambda with method reference 'ArrayList::new'.(µ¾Šıÿÿÿÿ
+E
+java:S1481?"*Remove this unused "func2" local variable.(µ¾Šıÿÿÿÿ
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8ã„¯Ãà/
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ8ä„¯Ãà/
