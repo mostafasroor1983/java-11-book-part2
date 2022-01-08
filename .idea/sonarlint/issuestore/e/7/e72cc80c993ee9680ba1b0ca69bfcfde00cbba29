@@ -1,0 +1,13 @@
+
+t
+java:S12108"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(”øïÂøÿÿÿÿ
+R
+java:S1854"<Remove this useless assignment to local variable "byWeight".(½âŠª
+C
+java:S1481"-Remove this unused "byWeight" local variable.(½âŠª
+]	java:S125"<This block of commented-out lines of code should be removed.(²—¬­ıÿÿÿÿ8ì¸„á/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÙæÙóøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Úå¦ÿÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ş¤Ò³
+>
+java:S1604"(Make this anonymous inner class a lambda(½âŠª

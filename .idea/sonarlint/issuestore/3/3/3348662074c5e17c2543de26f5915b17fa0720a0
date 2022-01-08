@@ -1,0 +1,22 @@
+
+K
+java:S1854"6Remove this useless assignment to local variable "b4".(ˆÜX
+L
+java:S1854"6Remove this useless assignment to local variable "b3".(å«ˆ
+Q
+java:S1854"6Remove this useless assignment to local variable "b2".(Ê°‰şÿÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "b1".(Ãì¸
+]	java:S125
+"<This block of commented-out lines of code should be removed.(ÓÀ³úÿÿÿÿ8¿‰æà/
+=
+java:S1481"'Remove this unused "b1" local variable.(Ãì¸
+B
+java:S1481"'Remove this unused "b2" local variable.(Ê°‰şÿÿÿÿÿ
+=
+java:S1481"'Remove this unused "b3" local variable.(å«ˆ
+<
+java:S1481"'Remove this unused "b4" local variable.(ˆÜX
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç°³¢
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8’¤æà/

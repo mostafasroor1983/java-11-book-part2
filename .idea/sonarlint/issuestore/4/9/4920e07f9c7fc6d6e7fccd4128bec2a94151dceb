@@ -1,0 +1,50 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "food".(’¼§“
+O
+java:S1854"9Remove this useless assignment to local variable "food2".(õ¢°
+?
+java:S1481")Remove this unused "food" local variable.(’¼§“
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«›²ôûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+@
+java:S1481"*Remove this unused "food2" local variable.(õ¢°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùõ‹şÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ğË˜Óøÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(èÜšº
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(”‡¸ó
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Òôø¥
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(³®ù’
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ß€›£
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(æçáù
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(é—í‘ıÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ôÕƒüûÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Ñù–Ÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(‘Í‚Ó
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(É¸ñÀ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(¡ÔıÁ
+Q	java:S125G"<This block of commented-out lines of code should be removed.(¡ÔıÁ
+M	java:S106J"9Replace this use of System.out or System.err by a logger.(™éş;
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+P	java:S125J"<This block of commented-out lines of code should be removed.(™éş;
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(±¬Ëùÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+V	java:S125W"<This block of commented-out lines of code should be removed.(±¬Ëùÿÿÿÿ
+~
+java:S4276\"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(ÑŠÄòøÿÿÿÿ8Ì¦‰ëà/
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(ô§‚
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(£°Æìûÿÿÿÿ
+Q	java:S125i"<This block of commented-out lines of code should be removed.(ô§‚
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(™»ò£8›§˜ëà/
+e
+java:S1192c"HDefine a constant instead of duplicating this literal "Skyride" 3 times.(èÏ‚Ë8æÓ­ëà/
+w
+java:S1192"aDefine a constant instead of duplicating this literal "--------------------------------" 7 times.(òÔÇÍ
+\
+java:S1192"FDefine a constant instead of duplicating this literal "koala" 4 times.(å­½Ø
+a
+java:S1192R"FDefine a constant instead of duplicating this literal "Jenny" 4 times.(êşÚÓıÿÿÿÿ

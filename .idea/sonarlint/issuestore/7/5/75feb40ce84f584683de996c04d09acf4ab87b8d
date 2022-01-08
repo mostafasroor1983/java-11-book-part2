@@ -1,0 +1,28 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+<
+java:S2129"!Remove this "Integer" constructor(ƒïÃèÿÿÿÿÿ
+J
+java:S1874"/Remove this use of "Integer"; it is deprecated.(ƒïÃèÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÚÐü“
+R
+java:S1854&"5Remove this useless assignment to local variable "d".(˜ú–±8Ðƒ™³á/
+R
+java:S1854%"5Remove this useless assignment to local variable "c".(¸’Ç‡8Ðƒ™³á/
+Q
+java:S1854$"5Remove this useless assignment to local variable "b".(Æ¥ˆ88Ðƒ™³á/
+B
+java:S1481$"&Remove this unused "b" local variable.(Æ¥ˆ88Ðƒ™³á/
+C
+java:S1481%"&Remove this unused "c" local variable.(¸’Ç‡8Ñƒ™³á/
+C
+java:S1481&"&Remove this unused "d" local variable.(˜ú–±8Ñƒ™³á/
+R
+java:S1144#"5Remove this unused private "playWithWildcard" method.(ÂÂ¢Ç8åä™³á/
+u
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ¥ˆ88Ñƒ™³á/
+v
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸’Ç‡8Ñƒ™³á/
+v
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ú–±8Òƒ™³á/

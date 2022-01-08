@@ -1,0 +1,49 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "list10".(¯¹ÑŸıÿÿÿÿ8İÆÁ¹á/
+[
+java:S1854"9Remove this useless assignment to local variable "list6".(ó™”ÿüÿÿÿÿ8éşË¹á/
+V
+java:S1854"9Remove this useless assignment to local variable "list5".(×¸È´8‚¾Ä¹á/
+[
+java:S1854"9Remove this useless assignment to local variable "list4".(ºÛ¨‰ùÿÿÿÿ8µ¨Å¹á/
+[
+java:S1854"9Remove this useless assignment to local variable "list3".(ğÁ¤şÿÿÿÿ8ÓñÄ¹á/
+[
+java:S1854
+"9Remove this useless assignment to local variable "list2".(İÆÒ‹üÿÿÿÿ8áıÍ¹á/
+V
+java:S1854	"9Remove this useless assignment to local variable "list1".(‚ê‹8€ÓÏ¹á/
+G
+java:S1481	"*Remove this unused "list1" local variable.(‚ê‹8ŞÆÁ¹á/
+L
+java:S1481
+"*Remove this unused "list2" local variable.(İÆÒ‹üÿÿÿÿ8ŞÆÁ¹á/
+L
+java:S1481"*Remove this unused "list3" local variable.(ğÁ¤şÿÿÿÿ8ßÆÁ¹á/
+L
+java:S1481"*Remove this unused "list4" local variable.(ºÛ¨‰ùÿÿÿÿ8ÕñÄ¹á/
+G
+java:S1481"*Remove this unused "list5" local variable.(×¸È´8çÅ¹á/
+L
+java:S1481"*Remove this unused "list6" local variable.(ó™”ÿüÿÿÿÿ8¨¿Æ¹á/
+M
+java:S1481"+Remove this unused "list10" local variable.(¯¹ÑŸıÿÿÿÿ8æíÏ¹á/
+]	java:S125"<This block of commented-out lines of code should be removed.(ŠØÍ±üÿÿÿÿ8çùÊ¹á/
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Ã™ÄÏ8Ù”¼¹á/
+v
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ê‹8àÆÁ¹á/
+{
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÆÒ‹üÿÿÿÿ8àÆÁ¹á/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğÁ¤şÿÿÿÿ8†¾Ä¹á/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÛ¨‰ùÿÿÿÿ8¹¨Å¹á/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¸È´8¨ÛÃ¹á/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó™”ÿüÿÿÿÿ8¸–Æ¹á/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¹ÑŸıÿÿÿÿ8ƒÓÏ¹á/

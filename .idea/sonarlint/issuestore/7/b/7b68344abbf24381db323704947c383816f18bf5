@@ -1,0 +1,32 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôƒÙ¡üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡­ÕÜ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŠõÈŠ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„£šöûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³‰Îãüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ü¤şùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(úšÆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·úıÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Î«Û¸
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¸µ 
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(¿úÏ±úÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(ö¥­
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ÃµÉ®ıÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(º«˜î
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(”©›àüÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(‰–µğ
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ8ò¸¸áà/
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(­¶´æ8ô¸¸áà/
+\
+java:S1612F"@Replace this lambda with method reference 'System.out::println'.(º­º%8ó¸¸áà/
+T	java:S106F"9Replace this use of System.out or System.err by a logger.(º­º%8Äé¸áà/
+b	java:S116K"MRename this field "Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÕÛ”
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8Éé¸áà/
+}
+java:S1192"bDefine a constant instead of duplicating this literal "---------------------------------" 6 times.(Êô²ºúÿÿÿÿ
