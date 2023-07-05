@@ -27,7 +27,7 @@ public class StreamTerminal {
     Stream<Employee> employeeStream = Stream.of(new Employee("A", 24),
       new Employee("B", 25), new Employee("B", 38));
     Optional<Employee> minEmployee = employeeStream.min((e1, e2) -> e2.getAge() - e1.getAge());// descending by age
-    System.out.println("minEmployee:" + minEmployee);
+    minEmployee.ifPresentOrElse(System.out::println, ()->  new RuntimeException("No Employee Min."));
 
     Optional<?> minEmpty = Stream.empty().min((s1, s2) -> 0);
     System.out.println(minEmpty.isPresent()); // false
@@ -62,6 +62,7 @@ public class StreamTerminal {
 
     var list2 = List.of("monkey", "2", "chimp");
     Stream<String> infinite2 = Stream.generate(() -> "chimp");
+    System.out.println("infinite2:" + infinite2);
     Predicate<String> pred2 = x -> Character.isDigit(x.charAt(0));
     //Predicate<String> pred2 = x -> Character.isLetter(x.charAt(0));
     System.out.println(list2.stream().anyMatch(pred2));  // true

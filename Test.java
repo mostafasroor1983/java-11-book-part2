@@ -1,0 +1,2 @@
+For compliance reasons, your team has a list of pre-approved Amazon Machine Images (AMIs) that can be used to launch EC2 instances. You will also want to keep a history of non-compliant EC2 instances running in your account.\
+        How can you achieve this?

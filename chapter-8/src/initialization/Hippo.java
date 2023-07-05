@@ -23,6 +23,6 @@ public class Hippo extends Animal {
     System.out.print("C");
     new Hippo();
     new Hippo();
-    new Hippo();
+    //new Hippo();
   }
 }

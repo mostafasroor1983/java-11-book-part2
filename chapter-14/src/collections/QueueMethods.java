@@ -11,7 +11,7 @@ public class QueueMethods {
     System.out.println(queue.peek());       // 10
     System.out.println(queue.poll());       // 10
     System.out.println(queue.poll());       // 4
-    System.out.println(queue.isEmpty());
+    System.out.println(queue.isEmpty());    // true
     System.out.println(queue.peek());       // null
   }
 }

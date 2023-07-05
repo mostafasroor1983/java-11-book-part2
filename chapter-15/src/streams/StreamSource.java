@@ -18,8 +18,8 @@ public class StreamSource {
     Stream<String> fromListParallel = list.parallelStream();
 
     //Creating Infinite Streams, Converting it to finite using limit
-    Stream.generate(Math::random)./*limit(10).*/forEach(System.out::println);
-    Stream.iterate(1, n -> n + 2)./*limit(100).*/forEach(System.out::println);
+    Stream.generate(Math::random).limit(10).forEach(System.out::println);
+    Stream.iterate(1, n -> n + 2).limit(100).forEach(System.out::println);
     Stream.iterate(1, n -> n < 10, n -> n + 2).forEach(System.out::println);
   }
 }

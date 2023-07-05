@@ -8,6 +8,5 @@ interface LongNose {
 }
 
 // because of conflict, contain incompatible methods that prevent from compiling
-//interface Donkey extends LongEars, LongNose {} // DOES NOT COMPILE
-//abstract class Aardvark implements LongEars, LongNose {}
-  // DOES NOT COMPILE
+// interface Donkey extends LongEars, LongNose {} // DOES NOT COMPILE
+// abstract class Aardvark implements LongEars, LongNose {} // DOES NOT COMPILE

@@ -3,9 +3,9 @@ package generics;
 
 import java.util.List;
 
-//Not just on class and interface level
-// It is also possible to declare generics on the method level. This is often useful for
-//static methods since they aren't part of an instance that can declare the type.
+// Not just on class and interface level
+// It is also possible to declare generics on the method level.
+// This is often useful for static methods since they aren't part of an instance that can declare the type.
 public class Handler {
   //Before the return type, we declare the formal type parameter of <T>.
   public static <T> void prepare(T t) {

@@ -1,5 +1,6 @@
 package collections;
 
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
@@ -20,7 +21,8 @@ public class MapMethods {
     System.out.println("--------------------------------");
 
     //TreeMap, sorted map based on keys
-    Map<String, String> treeMap = new TreeMap<>();
+    //Map<String, String> treeMap = new TreeMap<>();
+    Map<String, String> treeMap = new TreeMap<>(Collections.reverseOrder());
     treeMap.put("koala", "bamboo");
     treeMap.put("lion", "meat");
     treeMap.put("giraffe", "leaf");
@@ -77,7 +79,7 @@ public class MapMethods {
 
     //putIfAbsent()
     //The putIfAbsent() method sets a value in the map but skips it if
-    //the value is already set to a non‐ null value.
+    //the value is already set to a non-null value.
     Map<String, String> favorites = new HashMap<>();
     favorites.put("Jenny", "Bus Tour");
     favorites.put("Tom", null);
@@ -102,6 +104,7 @@ public class MapMethods {
     // because Sam's value is null here the mapper will not be called, and new value will be used
     favoritesHashMap.merge("Sam", "Skyride", mapper);
     favoritesHashMap.merge("Sam111", "Skyride111", mapper);
+
     System.out.println(favoritesHashMap); // {Tom=Skyride, Sam111=Skyride111, Jenny=Bus Tour, Sam=Skyride}
     System.out.println(jenny);            // Bus Tour
     System.out.println(tom);              // Skyride

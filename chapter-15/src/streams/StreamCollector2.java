@@ -7,21 +7,21 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class StreamCollector2 {
-  public static void main(String[] args) {
-    TreeSet<String> treeSet = Stream.of("w", "o", "l", "f")
-      .collect(Collectors.toCollection(TreeSet::new));
-    System.out.println(treeSet); // [f, l, o, w]
+    public static void main(String[] args) {
+        TreeSet<String> treeSet = Stream.of("w", "o", "l", "f")
+                .collect(Collectors.toCollection(TreeSet::new));
+        System.out.println(treeSet); // [f, l, o, w]
 
-    System.out.println("-------------------------------------");
+        System.out.println("-------------------------------------");
 
-    Map<Integer, String> map = Stream.of("w", "o", "l", "f")
-      .collect(Collectors.toMap(e -> e.length(), e -> e));
-    System.out.println(map);
+        Map<Integer, String> map = Stream.of("w", "o", "l", "f")
+                .collect(Collectors.toMap(e -> e.length(), e -> e));
+        System.out.println(map);
 
-    System.out.println("-------------------------------------");
+        System.out.println("-------------------------------------");
 
-    Set<String> set = Stream.of("w", "o", "l", "f")
-      .collect(Collectors.toSet());
-    System.out.println(set);
-  }
+        Set<String> set = Stream.of("w", "o", "l", "f")
+                .collect(Collectors.toSet());
+        System.out.println(set);
+    }
 }

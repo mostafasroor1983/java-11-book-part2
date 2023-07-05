@@ -5,8 +5,8 @@ import java.util.Arrays;
 public class EnumTest2 {
   public static void main(String[] args) {
     System.out.println(Arrays.toString(Season.values()));   // [WINTER, SUMMER, FALL, SPRING]
-    System.out.println(Season.FALL.name());                 // Medium
-    System.out.println(Season.FALL.getExpectedVisitors());  // FALL
+    System.out.println(Season.FALL.name());                 // FALL
+    System.out.println(Season.FALL.getExpectedVisitors());  // Medium
   }
 
   private enum Season {

@@ -7,8 +7,11 @@ in the Object class.
 * */
 @FunctionalInterface
 public interface Dive {
-  String toString();
-  public boolean equals(Object o);
-  public abstract int hashCode();
-  public void dive();
+    String toString();
+
+    public boolean equals(Object o);
+
+    public int hashCode();
+
+    public abstract void dive();
 }

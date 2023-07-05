@@ -16,37 +16,39 @@ public class Example2 {
     throw new FileNotFoundException();
   }*/
 
-
-  static void seeAnimal() {
-
-  }
-
-  /*static void seeAnimal() {
-   throw new IllegalArgumentException();
-  }
-*/
-  public void visitPorcupine() {
-    try {
-      seeAnimal();
-    } catch (AnimalsOutForAWalk e) {    // first catch block
-      System.out.print("try back later");
-    } catch (ExhibitClosed e) {         // second catch block
-      System.out.print("not today");
+    static void seeAnimal() {
+        throw new RuntimeException();
     }
-  }
 
-
-  public void visitMonkeys() {
-    try {
-      seeAnimal();
-      // does compile because the narrower exception is the first in order in catch block
-    } catch (ExhibitClosedForLunch e) {  // subclass exception
-      System.out.print("try back later");
-    } catch (ExhibitClosed  e) {         // superclass exception
-      System.out.print("not today");
+    /*static void seeAnimal() {
+     throw new IllegalArgumentException();
     }
-  }
+  */
+    public void visitPorcupine() {
+        try {
+            seeAnimal();
+        } catch (AnimalsOutForAWalk e) {    // first catch block
+            System.out.print("try back later");
+        } catch (ExhibitClosed e) {         // second catch block
+            System.out.print("not today");
+        }
+    }
 
+
+    public static void visitMonkeys() {
+        try {
+            seeAnimal();
+            // does compile because the narrower exception is the first in order in catch block
+        } catch (ExhibitClosedForLunch e) {  // subclass exception
+            System.out.print("try back later");
+        } catch (ExhibitClosed e) {         // superclass exception
+            System.out.print("not today");
+        }
+    }
+
+    public static void main(String[] args) {
+        visitMonkeys();
+    }
   /*public void visitMonkeys() {
     try {
       seeAnimal();

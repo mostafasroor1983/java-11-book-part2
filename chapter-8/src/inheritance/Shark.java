@@ -20,8 +20,9 @@ public class Shark extends Fish {
   //private int size ;
   public Shark(int age) {
     super(age);
+    super.size = 14;
     this.size = 4;
-    //super.size = 4;
+
   }
 
   public static void main(String[] args) {

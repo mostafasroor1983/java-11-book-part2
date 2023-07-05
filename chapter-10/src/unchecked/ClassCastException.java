@@ -13,9 +13,9 @@ public class ClassCastException {
     //Integer number = (Integer) type; // DOES NOT COMPILE
 
     P p = new P();
-    //S s = (S) p;                  //ClassCastException
+    S s = (S) p;                       // ClassCastException
 
-    Object obj = "1"; //1
-    Integer number = (Integer) obj; // ClassCastException : try to cast String to Integer
+    Object obj = "1";                  // 1
+    Integer number = (Integer) obj;    // ClassCastException : try to cast String to Integer
   }
 }

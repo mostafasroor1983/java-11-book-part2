@@ -26,7 +26,7 @@ public class Example1 {
     try {
       seeAnimals();
       fall();
-      //return;
+      return;
     } catch (Exception e) {
       getHugFromDaddy();
     } finally {
@@ -39,8 +39,8 @@ public class Example1 {
   static void explore2() {
     try {
       fall();
-      //1-  the finally block will be executed whether the exception is occurred or not
-      //2-  the finally block will be executed whether the exception is catched  or not
+      //1-  The finally block will be executed whether the exception is occurred or not
+      //2-  The finally block will be executed whether the exception is catched  or not
     } finally {
       System.out.println("all better");
     }

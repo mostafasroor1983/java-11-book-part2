@@ -12,6 +12,7 @@ public class SetMethods {
     boolean b2 = set.add(10);         // true
     boolean b3 = set.add(66);         // false
     boolean b4 = set.add(8);          // true
+    boolean b5 = set.add(-1);          // true
     set.forEach(System.out::println);
   }
 }

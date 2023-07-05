@@ -23,7 +23,7 @@ public class Panda2 extends Bear2 {
   // more restrictive access modifier violate the method overriding the is required also for method hidden
  /* protected static void laugh() { // DOES NOT COMPILE
     System.out.println("Panda2 is laughing");
-  }*/
+  }
 
   // missing static keyword in the child class
  /* public void sneeze() { // DOES NOT COMPILE
