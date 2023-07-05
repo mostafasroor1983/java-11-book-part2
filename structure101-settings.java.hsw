@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<local-project language="java" version="6.1.20514" xml-version="3" flavor="j2se">
+  <property name="parse-archive-in-archive" value="false" />
+  <property name="include-injected-dependency" value="false" />
+  <property name="relative-to" value="const(THIS_FILE)" />
+  <property name="action-set-mod" value="1" />
+  <property name="force-classpath" value="false" />
+  <property name="detail-mode" value="true" />
+  <property name="hide-deprecated" value="false" />
+  <property name="resolve-name-clashes" value="true" />
+  <property name="project-excluded" />
+  <property name="show-needs-to-compile" value="false" />
+  <property name="project-type" value="classpath" />
+  <property name="hide-externals" value="true" />
+  <classpath>
+    <classpathentry kind="lib" path="out/production/chapter-12" module="chapter-12" displaymodule="chapter-12" />
+    <classpathentry kind="lib" path="out/production/chapter-8" module="chapter-8" displaymodule="chapter-8" />
+    <classpathentry kind="lib" path="out/production/chapter-9" module="chapter-9" displaymodule="chapter-9" />
+    <classpathentry kind="lib" path="out/production/chapter-10" module="chapter-10" displaymodule="chapter-10" />
+    <classpathentry kind="lib" path="out/production/chapter-15" module="chapter-15" displaymodule="chapter-15" />
+    <classpathentry kind="lib" path="out/production/chapter-14" module="chapter-14" displaymodule="chapter-14" />
+    <classpathentry kind="lib" path="out/production/chapter-13" module="chapter-13" displaymodule="chapter-13" />
+  </classpath>
+  <pom-root-files />
+  <modules>
+    <module name="java-11-book" kind="ide-project" />
+    <module name="chapter-9" kind="ide-project" />
+    <module name="chapter-8" kind="ide-project" />
+    <module name="chapter-15" kind="ide-project" />
+    <module name="chapter-14" kind="ide-project" />
+    <module name="chapter-13" kind="ide-project" />
+    <module name="chapter-12" kind="ide-project" />
+    <module name="chapter-11" kind="ide-project" />
+    <module name="chapter-10" kind="ide-project" />
+  </modules>
+  <modules-in-scope>
+    <module name="chapter-15" />
+    <module name="chapter-14" />
+    <module name="chapter-13" />
+    <module name="java-11-book" />
+    <module name="chapter-12" />
+    <module name="chapter-9" />
+    <module name="chapter-11" />
+    <module name="chapter-8" />
+    <module name="chapter-10" />
+  </modules-in-scope>
+  <excludes>
+    <exclude expression="*.*&amp;amp;*" active="true" />
+  </excludes>
+  <restructuring>
+    <set version="3" name="Action list 1" hiview="Codemap" active="true" todo="false" list="0" />
+  </restructuring>
+  <grid-set sep="." version="6.1.20514" />
+</local-project>
