@@ -13,19 +13,14 @@
   <property name="project-type" value="classpath" />
   <property name="hide-externals" value="true" />
   <classpath>
-    <classpathentry kind="lib" path="out/production/chapter-12" module="chapter-12" displaymodule="chapter-12" />
-    <classpathentry kind="lib" path="out/production/chapter-8" module="chapter-8" displaymodule="chapter-8" />
-    <classpathentry kind="lib" path="out/production/chapter-9" module="chapter-9" displaymodule="chapter-9" />
-    <classpathentry kind="lib" path="out/production/chapter-10" module="chapter-10" displaymodule="chapter-10" />
-    <classpathentry kind="lib" path="out/production/chapter-15" module="chapter-15" displaymodule="chapter-15" />
-    <classpathentry kind="lib" path="out/production/chapter-14" module="chapter-14" displaymodule="chapter-14" />
-    <classpathentry kind="lib" path="out/production/chapter-13" module="chapter-13" displaymodule="chapter-13" />
+    <classpathentry kind="lib" path="out/production/chapter-16" module="chapter-16" displaymodule="chapter-16" />
   </classpath>
   <pom-root-files />
   <modules>
     <module name="java-11-book" kind="ide-project" />
     <module name="chapter-9" kind="ide-project" />
     <module name="chapter-8" kind="ide-project" />
+    <module name="chapter-16" kind="ide-project" />
     <module name="chapter-15" kind="ide-project" />
     <module name="chapter-14" kind="ide-project" />
     <module name="chapter-13" kind="ide-project" />
@@ -34,6 +29,7 @@
     <module name="chapter-10" kind="ide-project" />
   </modules>
   <modules-in-scope>
+    <module name="chapter-16" />
     <module name="chapter-15" />
     <module name="chapter-14" />
     <module name="chapter-13" />
