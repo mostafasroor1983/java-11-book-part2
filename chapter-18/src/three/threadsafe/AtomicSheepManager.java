@@ -1,0 +1,31 @@
+package three.threadsafe;
+
+import java.time.LocalDateTime;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.atomic.AtomicInteger;
+
+public class AtomicSheepManager {
+    private static AtomicInteger atomicInteger = new AtomicInteger(0);
+
+    private void incrementAndReport() {
+        System.out.print(atomicInteger.incrementAndGet() + " ");;
+    }
+
+    public static void main(String[] args) {
+        ExecutorService service = null;
+        AtomicSheepManager manager = new AtomicSheepManager();
+        System.out.println();
+        System.out.println(LocalDateTime.now());
+        try {
+            service = Executors.newFixedThreadPool(20);
+            for (int i = 0; i < 10; i++)
+                service.submit(() -> manager.incrementAndReport());
+        } finally {
+            if (service != null) service.shutdown();
+        }
+        System.out.println();
+        System.out.println(LocalDateTime.now());
+        System.out.println(atomicInteger.get());
+    }
+}
