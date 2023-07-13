@@ -13,6 +13,7 @@
   <property name="project-type" value="classpath" />
   <property name="hide-externals" value="true" />
   <classpath>
+    <classpathentry kind="lib" path="out/production/chapter-19" module="chapter-19" displaymodule="chapter-19" />
     <classpathentry kind="lib" path="out/production/chapter-18" module="chapter-18" displaymodule="chapter-18" />
     <classpathentry kind="lib" path="out/production/chapter-16" module="chapter-16" displaymodule="chapter-16" />
   </classpath>
@@ -21,6 +22,7 @@
     <module name="java-11-book" kind="ide-project" />
     <module name="chapter-9" kind="ide-project" />
     <module name="chapter-8" kind="ide-project" />
+    <module name="chapter-19" kind="ide-project" />
     <module name="chapter-18" kind="ide-project" />
     <module name="chapter-16" kind="ide-project" />
     <module name="chapter-15" kind="ide-project" />
@@ -31,6 +33,7 @@
     <module name="chapter-10" kind="ide-project" />
   </modules>
   <modules-in-scope>
+    <module name="chapter-19" />
     <module name="chapter-18" />
     <module name="chapter-16" />
     <module name="chapter-15" />
