@@ -4,6 +4,7 @@ import java.io.File;
 import java.net.URISyntaxException;
 import java.nio.file.FileSystem;
 import java.nio.file.FileSystems;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.net.URI;
 import java.util.Date;
@@ -13,17 +14,18 @@ public class FileSystemsExample {
         Path path1 = FileSystems.getDefault().getPath("test.txt");
         System.out.println(path1.getFileSystem());
         System.out.println(path1.getFileName());
+        System.out.println(Files.exists(path1));
         System.out.println(path1.isAbsolute());
 
         System.out.println("---------------");
-        Path path4 =  FileSystems.getDefault().getPath("files/a.txt");
+        Path path4 =  FileSystems.getDefault().getPath("files/a/1.txt");
         System.out.println(path4.getFileSystem());
         System.out.println(path4.getFileName());
         System.out.println(path4.getParent());
         System.out.println(path4.isAbsolute());
 
         System.out.println("---------------");
-        Path path5 =  FileSystems.getDefault().getPath("files", "b.txt");
+        Path path5 =  FileSystems.getDefault().getPath("files", "b","2.txt");
         System.out.println(path5.getFileSystem());
         System.out.println(path5.getFileName());
         System.out.println(path5.getParent());
